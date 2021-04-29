@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CofiBeatz
-- 👀 I’m interested in learning Javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in learning javascript
+- 🌱 I’m currently learning javascript
 - 🤖 I have Verified [Bot](https://top.gg/bot/736260472663179375)
 - 📫 How to reach me? Over Discord `The Cofi#0001`
 
