@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Javascript
 - 🌱 I’m currently learning Javascript
 - 🤖 I have Verified Discord Bot [Vibe](https://top.gg/bot/736260472663179375)
-- 📫 How to reach me? Over Discord `The Cofi#0001`
+- 📫 How to reach me? Over Discord `The Cofi#5546`
 
 <p align="left"> 
     <a href="https://discord.com/users/714210674020188241">Discord</a>
