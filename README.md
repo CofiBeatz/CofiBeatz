@@ -20,16 +20,3 @@
 <p align="left">  
 Send me Friend Request on Discord, Subscribe to my Youtube, Join my Support Server for Bot.
 </p>
-
-<details>
-  <summary>GitHub Profile Info</summary>
-  <h1 align="center">Profile Status</h1>
-  <details>
-    <summary>GitHub Status</summary>
-  <img align="center" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cofibeatz&show_icons=true&theme=default&hide_border=true" />
-</details>
-
-<details>
-  <summary>Contributions</summary>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cofibeatz&" alt="CofiBeatz" />
-  </details>
