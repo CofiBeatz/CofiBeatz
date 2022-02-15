@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm CofiBeatz</h1>
+<h1 align="center">Hi, I'm The Cofi</h1>
 
 - 📫 | You can reach me on [Discord](https://discord.com/users/714210674020188241)
 - 🌱 | I’m currently learning [JavaScript](https://discord.gg/Y8Mqbkk)
